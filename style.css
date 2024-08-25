@@ -1,0 +1,16 @@
+.borderr{
+    border: 2px solid red;
+}
+.borderg{
+    border: 2px solid green;
+}
+
+.div1{
+    width: 800px;
+    height: 300px
+}
+
+.div2{
+    width: 80vw; /* 80% of the viewport's width */
+    height: 50vh;
+}
